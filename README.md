@@ -1,3 +1,1 @@
-# The Jacks of All Trades
-
-##
+# The Jacks Of All Trades
